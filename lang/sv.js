@@ -260,7 +260,7 @@ var theUILang =
  About_program			: "Om ruTorrent",
  Toggle_menu			: "Visa/dölj meny",
  Toggle_details 		: "Visa/dölj detaljer",
- Toggle_categories		: "Visa/dölj ketegorier",
+ Toggle_categories		: "Visa/dölj kategorier",
  Delete_current_torrents	: "Ta bort aktuell(a) torrent(er)",
  Select_all			: "Markera alla",
  Deselect_all			: "Avmarkera alla",
@@ -271,5 +271,6 @@ var theUILang =
  Recreate_files 		: "Queue files recreation",
  Address			: "Address",
  PeerDL 			: "Peer DL",
- PeerDownloaded 		: "Peer Downloaded"
+ PeerDownloaded 		: "Peer Downloaded",
+ Save_path			: "Save path"
 };
